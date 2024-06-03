@@ -108,7 +108,12 @@ export default function Home() {
           </p>
         </a>
         <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-        1.From this list, rank your 5 most favourite and 5 least favourite support tasks. Provide a brief explanation for each..
+        1. From this list, rank your 5 most favourite and 5 least favourite support tasks. Provide a brief explanation for each.
+          - Create video tutorials to help teach users a specific feature or use case. I enjoy doing this because I myself am a visual learner. I enjoy breaking things down into fragments and giving the background context to then help someone else understand complex topics. 
+          - Help train and onboard new support teammates. I Enjoy doing this because this has been the core of my career as a people leader  for the past 8 years. I love helping my team up level skills and motivate them to want to learn and grow. 
+          - Find and recruit teammates for the support team. I find recruiting so fun, because I understand what it can be like to be on the other side of the table, and I enjoy meeting new people from all walks of life within the industry. 
+          - Identify, file (and, where possible, resolve) bugs in private and public Vercel/Next.js repos on GitHub. I miss being this technical, in previous roles I was so hyper fixates on operational excellence that I feel I was losing some of the tech skills I know and love today.
+
           </h2>
           <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
         2. What do you want to learn or do more of at work?
@@ -139,6 +144,17 @@ Please write a follow-up reply to the customer.
           <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
           10. How could we improve or alter this familiarisation exercise?
           </h2>
+      </div>
+      <div>
+      <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
+        1. From this list, rank your 5 most favourite and 5 least favourite support tasks. Provide a brief explanation for each.
+          - Create video tutorials to help teach users a specific feature or use case. I enjoy doing this because I myself am a visual learner. I enjoy breaking things down into fragments and giving the background context to then help someone else understand complex topics. 
+          - Help train and onboard new support teammates. I Enjoy doing this because this has been the core of my career as a people leader  for the past 8 years. I love helping my team up level skills and motivate them to want to learn and grow. 
+          - Find and recruit teammates for the support team. I find recruiting so fun, because I understand what it can be like to be on the other side of the table, and I enjoy meeting new people from all walks of life within the industry. 
+          - Identify, file (and, where possible, resolve) bugs in private and public Vercel/Next.js repos on GitHub. I miss being this technical, in previous roles I was so hyper fixates on operational excellence that I feel I was losing some of the tech skills I know and love today.
+
+          </h2>
+
       </div>
     </main>
   );
