@@ -146,7 +146,7 @@ Please write a follow-up reply to the customer.
           </h2>
       </div>
       <div>
-      <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
+      <h2 className="m-0 max-w-[80ch] text-balance text-sm opacity-50">
         1. From this list, rank your 5 most favourite and 5 least favourite support tasks. Provide a brief explanation for each.
           - Create video tutorials to help teach users a specific feature or use case. I enjoy doing this because I myself am a visual learner. I enjoy breaking things down into fragments and giving the background context to then help someone else understand complex topics. 
           - Help train and onboard new support teammates. I Enjoy doing this because this has been the core of my career as a people leader  for the past 8 years. I love helping my team up level skills and motivate them to want to learn and grow. 
