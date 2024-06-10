@@ -124,7 +124,7 @@ export default function Home() {
       <div>
       <h2 className="m-0 max-w-[80ch] text-balance text-sm opacity-50">
           2. What do you want to learn or do more of at work?
-          -  - Front end used to be my passion when learning web development. In my 8 years of experience in people leadership I feel like Ive lost the opportunity to learn and grow in this area as much as some of the individual contributors that I manage. I love people leadership and thats where my passion stands however I would love to be able to do more in this area to keep my technical goals alive. I believe in use it or lose it mentality, therefore I would love the opportunity to be exposed to more front end technical skills. 
+          -Front end used to be my passion when learning web development. In my 8 years of experience in people leadership I feel like Ive lost the opportunity to learn and grow in this area as much as some of the individual contributors that I manage. I love people leadership and thats where my passion stands however I would love to be able to do more in this area to keep my technical goals alive. I believe in use it or lose it mentality, therefore I would love the opportunity to be exposed to more front end technical skills. 
         </h2>
       </div>
       <div>
