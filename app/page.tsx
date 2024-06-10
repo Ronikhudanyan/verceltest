@@ -135,7 +135,7 @@ export default function Home() {
       </div>
       <div>
         <h2 className="m-0 max-w-[80ch] text-balance text-sm opacity-50">
-        5.Imagine a customer writes in requesting help with a build issue on a framework or technology that you've not seen before. How would you begin troubleshooting this and what questions would you ask the customer to understand the situation better?
+        5. question five hypothetical customer build question. 
         -Generally I would start off with asking as many probing questions as possible so I can get a sense of what is needed from the customer. This can include things like screenshots, or error messages they are seeing. In my experience a customer can reach out and say its broken! That could mean anything, whats broken? What are you seeing? What were you doing when this happened? Ect. From there I would use the details Ive found to check internal KBs or external documentation, do some googling, Im a visual person so I may even try to replicate it and follow an older ticket with the same issue. Once Ive exhausted all resourced I will then reach out for help. 
         </h2>
       </div>
