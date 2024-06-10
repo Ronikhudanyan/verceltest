@@ -107,54 +107,49 @@ export default function Home() {
             Instantly deploy your Next.js site to a shareable URL with Vercel.
           </p>
         </a>
-        <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-        1. From this list, rank your 5 most favourite and 5 least favourite support tasks. Provide a brief explanation for each.
-          - Create video tutorials to help teach users a specific feature or use case. I enjoy doing this because I myself am a visual learner. I enjoy breaking things down into fragments and giving the background context to then help someone else understand complex topics. 
-          - Help train and onboard new support teammates. I Enjoy doing this because this has been the core of my career as a people leader  for the past 8 years. I love helping my team up level skills and motivate them to want to learn and grow. 
-          - Find and recruit teammates for the support team. I find recruiting so fun, because I understand what it can be like to be on the other side of the table, and I enjoy meeting new people from all walks of life within the industry. 
-          - Identify, file (and, where possible, resolve) bugs in private and public Vercel/Next.js repos on GitHub. I miss being this technical, in previous roles I was so hyper fixates on operational excellence that I feel I was losing some of the tech skills I know and love today.
-
-          </h2>
-          <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-        2. What do you want to learn or do more of at work?
-          </h2>
-          <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-        3. Describe how you solved a challenge or technical issue that you faced in a previous role preferably in a previous support role. How did you determine that your solution was successful?
-        </h2>
-        <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-        4.When would you choose to use Edge Functions, Serverless Functions, or Edge Middleware with Vercel?
-        </h2>
-        <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-        5. Imagine a customer writes in requesting help with a build issue on a framework or technology that youve not seen before. How would you begin troubleshooting this and what questions would you ask the customer to understand the situation better?
-        </h2>
-        <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-        6. The customer from question 5 replies to your response with the below:
-Im so frustrated. Ive been trying to make this work for hours and I just cant figure it out. It must be a platform issue so just fix it for me instead of asking me questions. 
-Please write a follow-up reply to the customer.
-          </h2>
-          <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-          7. A customer writes in to the Helpdesk asking How do I do a redirect from the /blog path to https://example.com? Please write a reply to the customer. Feel free to add any information about your decision making process after the reply.
-          </h2>
-          <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-          8. A customer is creating a site and would like their project not to be indexed by search engines. Please write a reply to the customer. Feel free to add any information about your decision making process after the reply.
-          </h2>
-          <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-          9. What do you think is one of the most common problems which customers ask Vercel for help with? How would you help customers to overcome common problems, short-term and long-term?
-          </h2>
-          <h2 className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-          10. How could we improve or alter this familiarisation exercise?
-          </h2>
+          
       </div>
       <div>
       <h2 className="m-0 max-w-[80ch] text-balance text-sm opacity-50">
         1. From this list, rank your 5 most favourite and 5 least favourite support tasks. Provide a brief explanation for each.
+        I Enjoy:
           - Create video tutorials to help teach users a specific feature or use case. I enjoy doing this because I myself am a visual learner. I enjoy breaking things down into fragments and giving the background context to then help someone else understand complex topics. 
           - Help train and onboard new support teammates. I Enjoy doing this because this has been the core of my career as a people leader  for the past 8 years. I love helping my team up level skills and motivate them to want to learn and grow. 
           - Find and recruit teammates for the support team. I find recruiting so fun, because I understand what it can be like to be on the other side of the table, and I enjoy meeting new people from all walks of life within the industry. 
           - Identify, file (and, where possible, resolve) bugs in private and public Vercel/Next.js repos on GitHub. I miss being this technical, in previous roles I was so hyper fixates on operational excellence that I feel I was losing some of the tech skills I know and love today.
 
-          </h2>
 
+          </h2>
+      </div>
+      <div>
+      <h2 className="m-0 max-w-[80ch] text-balance text-sm opacity-50">
+          2. What do you want to learn or do more of at work?
+          -  - Front end used to be my passion when learning web development. In my 8 years of experience in people leadership I feel like Ive lost the opportunity to learn and grow in this area as much as some of the individual contributors that I manage. I love people leadership and thats where my passion stands however I would love to be able to do more in this area to keep my technical goals alive. I believe in use it or lose it mentality, therefore I would love the opportunity to be exposed to more front end technical skills. 
+        </h2>
+      </div>
+      <div>
+        <h2 className="m-0 max-w-[80ch] text-balance text-sm opacity-50">
+        3. Describe how you solved a challenge or technical issue that you faced in a previous role preferably in a previous support role. How did you determine that your solution was successful?
+        - As mentioned above, in my previous roles I didnt have much hands on experience with actually working tickets and solving issues for members, I was always the escalation point while my main focus was on driving global impact in processes and procedures. One of the biggest challenges I had to solve in this area was when we had a backlog of over 900 unsolved tickets a day that our support team could not keep up with. Through months of operational excellence projects such as getting more data driven and bringing in BPOs, KPIs and OKRs we were able to use the data from previous months, apply them to knew processes, that helped get this backlog under control. I knew we were successful because we werent blaming headcount anymore and just hiring to try and put out a fire. We were finally taking a proactive approach to backlog instead of playing catchup
+        </h2>
+      </div>
+      <div>
+        <h2 className="m-0 max-w-[80ch] text-balance text-sm opacity-50">
+        5.Imagine a customer writes in requesting help with a build issue on a framework or technology that you've not seen before. How would you begin troubleshooting this and what questions would you ask the customer to understand the situation better?
+        -Generally I would start off with asking as many probing questions as possible so I can get a sense of what is needed from the customer. This can include things like screenshots, or error messages they are seeing. In my experience a customer can reach out and say its broken! That could mean anything, whats broken? What are you seeing? What were you doing when this happened? Ect. From there I would use the details Ive found to check internal KBs or external documentation, do some googling, Im a visual person so I may even try to replicate it and follow an older ticket with the same issue. Once Ive exhausted all resourced I will then reach out for help. 
+        </h2>
+      </div>
+      <div>
+        <h2 className="m-0 max-w-[80ch] text-balance text-sm opacity-50">
+        6. Im so frustrated. Ive been trying to make this work for hours and I just cant figure it out. It must be a platform issue so just fix it for me instead of asking me questions. 
+        - I understand you are frustrated with this and I apologize for any issues you may be facing. Lets work together on this and get you to your resolution. Here Is what I have done for you, (reached out to external team or researched something) Here is what I have found (links/articles) and here is what I am going to do for you moving forward, (include next steps here). (Customers generally react better when you focus on what you can do, and what you have done. Loop them in on this and positively position your follow up to best de-escalate the customer) 
+        </h2>
+      </div>
+      <div>
+        <h2>
+          7. A customer writes in to the Helpdesk asking "How do I do a redirect from the /blog path to https://example.com? Please write a reply to the customer. Feel free to add any information about your decision making process after the reply.
+          - To set up a redirect atom /blog to your example website you can use vercels redirect configuration within the json file. Here is how you can do that. (I would include screenshots and a code block of what the JSON file looks like and include the link to the documentation where I found it) Generally by default you should have a Json file already created within your vercel project. If you do not have one here is a link to instructions on how to create this. Once that is added we can go into the redirects, add the source, the destination and set this to true or enabled. Once you are finished we can deploy this and check if that worked. (I found all this information in the redirects documentation, there are many ways to redirect pages using verbal but in this example I decided to use the out of the box redirect feature that comes with vercel because it is the easiest to implement. If the customer had specific use cases like serverless functions for example, I would use the instructions specific to that use case.)
+        </h2>
       </div>
     </main>
   );
