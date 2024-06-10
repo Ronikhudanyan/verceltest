@@ -147,7 +147,7 @@ export default function Home() {
       </div>
       <div>
         <h2>
-          7. A customer writes in to the Helpdesk asking "How do I do a redirect from the /blog path to https://example.com? Please write a reply to the customer. Feel free to add any information about your decision making process after the reply.
+          7. A customer writes in to the Helpdesk asking How do I do a redirect from the /blog path to example wesbite Please write a reply to the customer. Feel free to add any information about your decision making process after the reply.
           - To set up a redirect atom /blog to your example website you can use vercels redirect configuration within the json file. Here is how you can do that. (I would include screenshots and a code block of what the JSON file looks like and include the link to the documentation where I found it) Generally by default you should have a Json file already created within your vercel project. If you do not have one here is a link to instructions on how to create this. Once that is added we can go into the redirects, add the source, the destination and set this to true or enabled. Once you are finished we can deploy this and check if that worked. (I found all this information in the redirects documentation, there are many ways to redirect pages using verbal but in this example I decided to use the out of the box redirect feature that comes with vercel because it is the easiest to implement. If the customer had specific use cases like serverless functions for example, I would use the instructions specific to that use case.)
         </h2>
       </div>
